@@ -1,18 +1,9 @@
-DaKprofSNir		daniel.kihn@limayrac.fr
-CretonDavid   david.creton@limayrac.fr
-LegrandAntoine antoine.legrand@limayrac.fr
-clementaub      clement.aubert@limayrac.fr
-LoicAuge        loic.auge@limayrac.fr
-baptiste12330   baptiste.neyrat@limayrac.fr
-nicolasbse    brisenicolas@gmail.com
-
-DudziakQuentin quentin.dudziak@hotmail.com
-
-
-
-clementher    clement.hernandez@limayrac.fr
-
-tmhadid       hadid.tarik@gmail.com
-Kathesan      kathesan.karunakaran@limayrac.fr
-
-
+DaKprofSNir	daniel.kihn@limayrac.fr
+CretonDavid	david.creton@limayrac.fr
+flavienhaas	flavien.haas@oulook.fr
+LegrandAntoine	antoine.legrand@limayrac.fr
+clementaub	clement.aubert@limayrac.fr
+LoicAuge	loic.auge@limayrac.fr
+DudziakQuentin	quentin.dudziak@hotmail.com
+HadidTarik	hadid.tarik@gmail.com
+KARUNAKARAN 	Kathesan kathesan.karunakaran@limayrac.fr
