@@ -7,3 +7,4 @@ LoicAuge	loic.auge@limayrac.fr
 DudziakQuentin	quentin.dudziak@hotmail.com
 HadidTarik	hadid.tarik@gmail.com
 KARUNAKARAN 	Kathesan kathesan.karunakaran@limayrac.fr
+MassardJean-Daniel	jeandaniel.massard@limayrac.fr
